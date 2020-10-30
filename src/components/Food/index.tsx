@@ -1,4 +1,3 @@
-import console from 'console';
 import React, { useState } from 'react';
 
 import { FiEdit3, FiTrash } from 'react-icons/fi';
